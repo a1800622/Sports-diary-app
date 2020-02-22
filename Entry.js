@@ -28,6 +28,7 @@ const saveDiaryKB = () => {{
   dbKB.transaction(tx =>{
     tx.executeSql('insert into diaryKB (topic, notes, moves) values (?,?,?);', [topic, notes, moves]);
   }, null, updateListKB)
+  console.log("Saving to diaryKB");
   console.log(topic);
   console.log(notes);
   console.log(moves);
@@ -38,7 +39,8 @@ const saveDiaryBJJ = () => {{
   dbBJJ.transaction(tx =>{
     tx.executeSql('insert into diaryBJJ (topic, notes, moves) values (?,?,?);', [topic, notes, moves]);
   }, null, updateListBJJ)
-  {/* Console logs are to make sure that  */}
+  {/* Console logs are added just in case you want to see them being saved */}
+  console.log("Saving to diaryBJJ");
   console.log(topic);
   console.log(notes);
   console.log(moves);

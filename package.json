@@ -20,7 +20,9 @@
     "react-native-web": "^0.11.4",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.10.3",
-    "react-navigation-tabs": "^2.6.2"
+    "react-navigation-tabs": "^2.6.2",
+    "braces": ">=2.3.1",
+    "mem": ">=4.0.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^6.0.0"

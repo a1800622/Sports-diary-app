@@ -29,6 +29,7 @@ const updateListBJJ = () => {
 }
 
 const deleteDiaryBJJ = (id) => {
+  console.log("Deleting id: " + id + " from DiaryBJJ");
   dbBJJ.transaction(
     tx => {
       tx.executeSql('delete from diaryBJJ where id = ?;', [id]);

@@ -28,6 +28,7 @@ const updateListKB = () => {
 }
 
 const deleteDiaryKB = (id) => {
+  console.log("Deleting id: " + id + " from DiaryKB");
   dbKB.transaction(
     tx => {
       tx.executeSql('delete from diaryKB where id = ?;', [id]);
