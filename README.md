@@ -36,20 +36,21 @@ npm start
 ### Content
 
 The application starts with the homescreen, consisting of four buttons: New Diary Entry, Kickboxing Diary, BJJ Diary, Running Pace Calculator.
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/home_screen.jpg" height="200" />
+
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/home_screen.jpg" height="500" />
 
 The first button leads to the Diary Entry screen, where you can fill out and submit to the two topics:
 
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/entry_screen.jpg" height="200" />
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/entry_screen_2.jpg" height="200" />
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/entry_screen_3.jpg" height="200" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/entry_screen.jpg" height="500" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/entry_screen_2.jpg" height="500" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/entry_screen_3.jpg" height="500" />
 
 The two diary buttons lead to your diaries where your submitted notes are listed based on the topic:
 
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/kb_diary_screen.jpg" height="200" />
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/bjj_diary_screen.jpg" height="200" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/kb_diary_screen.jpg" height="500" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/bjj_diary_screen.jpg" height="500" />
 
 The final screen is a running pace calculator, where you can calculate your running pace:
 
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/running_pace_screen.jpg" height="200" />
-<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/running_pace_screen_2.jpg" height="200" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/running_pace_screen.jpg" height="500" />
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/running_pace_screen_2.jpg" height="500" />
