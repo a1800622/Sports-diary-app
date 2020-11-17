@@ -71,8 +71,8 @@ feature/testing
 ```
 
 The following files have been modified/added in this branch:
-* Home.js
-* Home.test.js
+* [Home.js](https://github.com/a1800622/sports-diary-app/blob/feature/testing/Home.js)
+* [Home.test.js](https://github.com/a1800622/sports-diary-app/blob/feature/testing/Home.test.js)
 
 1. Using git bash, switch to the testing branch and pull, using the following commands:
 ```sh
