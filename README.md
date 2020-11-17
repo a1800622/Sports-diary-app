@@ -1,3 +1,11 @@
+## Table of Contents
+
+* [Sports diary app](#sports-diary-app)
+  * [Before installation](#before-installation)
+  * [Installation](#installation)
+  * [Content](#content)
+* [Testing](#testing)
+
 
 ## Sports diary app
 
@@ -54,3 +62,28 @@ The final screen is a running pace calculator, where you can calculate your runn
 
 <img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/running_pace_screen.jpg" height="500" />
 <img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/running_pace_screen_2.jpg" height="500" />
+
+## Testing
+
+Testing is done on a separate branch. The application itself will not run properly on this one.
+```sh
+feature/testing
+```
+
+The following files have been modified/added in this branch:
+* Home.js
+* Home.test.js
+
+1. Using git bash, switch to the testing branch and pull, using the following commands:
+```sh
+git checkout feature/testing
+```
+```sh
+git pull
+```
+2. To run the test, run this command in CMD or Powershell (make sure you're in the right folder destination as explained in the installation):
+```sh
+npm run test
+```
+3. Running the command will create a snapshot file of the application (located in the same folder). You can open it and check it out with any text editor.
+<img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/snapshot.JPG" height="300" />
