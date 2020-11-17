@@ -8,7 +8,7 @@ import { StyleSheet, Text, View, Button } from 'react-native';
 export default function Home(props) {
 
   navigationOptions = { title: 'Homepage', };
-  const { navigate } = props.navigation;
+  //  const { navigate } = props.navigation;
 
   return (
     <View style={styles.container}>
