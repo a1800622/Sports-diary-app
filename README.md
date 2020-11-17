@@ -87,4 +87,3 @@ npm run test
 ```
 3. Running the command will create a snapshot file of the application (located in the same folder). You can open it and check it out with any text editor.
 <img src="https://github.com/a1800622/sports-diary-app/blob/master/IMG/snapshot.JPG" height="300" />
-
