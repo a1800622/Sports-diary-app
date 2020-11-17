@@ -9,7 +9,11 @@ export default function Home(props) {
 
   navigationOptions = { title: 'Homepage', };
   //  const { navigate } = props.navigation;
-
+  
+  /**
+   * line 11 has been commented out on this branch, in order to get home.test.js to work.
+   * Keep in mind that the app will not run correctly on this branch.
+   */
   return (
     <View style={styles.container}>
       <View style={styles.container}>
